@@ -12,6 +12,7 @@ Trained and Developed a CNN model for detecting COVID-19 using the concept of bi
 - Compare the developed CNN model with the pretrained ResNet50 model using performance metrics and visualizations.
 
 **STRUCTURE**
+
 The repository includes three Jupyter notebooks:
 1. CNN Model - Pre-trained
    The pre-trained ResNet50 model
