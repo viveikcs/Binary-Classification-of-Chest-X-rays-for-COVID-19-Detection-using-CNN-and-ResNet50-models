@@ -3,6 +3,7 @@
 **CNN-Model---Chest-X-Ray-Image-Recognition-to-Detect-COVID-19**
 
 **# DESCRIPTION**
+
 Trained and Developed a CNN model for detecting COVID-19 using the concept of binary image classification of the COVID-infected and normal chest X-ray images that were used as the training and testing data. The performance and accuracy of the developed CNN model was compared with a pre-trained ResNet50 CNN model.
 
 **#OBJECTIVES**
@@ -24,9 +25,11 @@ The repository includes three Jupyter notebooks:
 - COVID-19 Radiography Dataset (Link: https://www.kaggle.com/datasets/preetviradiya/covid19-radiography-dataset)
 
 **#TECHNOLOGIES**
+
 Python, TensorFlow, Keras, NumPy, Matplotlib, Seaborn, Image Preprocessing, Google Colab
 
 **#TESTING**
+
 The trained and developed CNN model was tested in two distinct phases to assess generalization and robustness. Both testing phases utilized different quantites of the chest X-ray images.
 
 **#RESULTS**
@@ -36,4 +39,5 @@ The trained and developed CNN model was tested in two distinct phases to assess 
 | ResNet50   |        84%        |         96%         |
 
 **#CONTACT**
+
 Feel free to reach out: viveikcs@gmail.com
