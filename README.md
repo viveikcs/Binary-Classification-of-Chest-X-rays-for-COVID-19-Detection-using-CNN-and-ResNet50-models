@@ -33,7 +33,7 @@ Python, TensorFlow, Keras, NumPy, Matplotlib, Seaborn, Image Preprocessing, Goog
 
 The trained and developed CNN model was tested in two distinct phases to assess generalization and robustness. Both testing phases utilized different quantites of the chest X-ray images.
 
-**#RESULTS**
+**RESULTS**
 | Model      | Training Accuracy | Validation Accuracy |
 | ---------- | ----------------- | ------------------- |  
 | Custom CNN |        100%       |         90%         |
