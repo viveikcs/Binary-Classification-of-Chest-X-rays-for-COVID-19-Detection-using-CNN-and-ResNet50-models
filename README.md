@@ -15,10 +15,13 @@ Trained and Developed a CNN model for detecting COVID-19 using the concept of bi
 
 The repository includes three Jupyter notebooks:
 1. CNN Model - Pre-trained
+
    The pre-trained ResNet50 model
-2. CNN Model - Trained Phase-1
+3. CNN Model - Trained Phase-1
+
    The trained and developed CNN model along with results of Phase-1 of the Testing phase.
-3. CNN Model - Trained Phase-2
+5. CNN Model - Trained Phase-2
+
    The trained and developed CNN model along with results of Phase-2 of the Testing phase.
 
 **DATASET**
