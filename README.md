@@ -1,3 +1,5 @@
+# K-Nearest Neighbor and Decision Tree Classification algorithms for Detecting Diabetes
+
 #CNN-Model---Chest-X-Ray-Image-Recognition-to-Detect-COVID-19
 
 **DESCRIPTION**
