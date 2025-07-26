@@ -16,7 +16,7 @@ The repository includes three Jupyter notebooks:
 
 - CNN Model - Pre-trained
 
-  ##### The pre-trained ResNet50 model
+  The pre-trained ResNet50 model
   
 - CNN Model - Trained Phase-1
 
