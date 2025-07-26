@@ -70,6 +70,6 @@ The CNN model achieved better Accuracy in detecting the presence of COVID-19, co
 - Scikit-learn documentation
 - Tensorflow documentation
 
-**CONTACT**
+### **CONTACT**
 
 Feel free to reach out: viveikcs@gmail.com
