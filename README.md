@@ -43,7 +43,7 @@ The trained and developed CNN model was tested in two distinct phases to assess 
 | Custom CNN |        100%       |         90%         |
 | ResNet50   |        84%        |         96%         |
 
-The CNN model showed Accuracy in detecting the presence of COVID-19, compared to the ResNet50 model.
+The CNN model achieved better Accuracy in detecting the presence of COVID-19, compared to the ResNet50 model.
 
 **CONTACT**
 
