@@ -1,6 +1,4 @@
-**TITLE**
-
-**CNN-Model---Chest-X-Ray-Image-Recognition-to-Detect-COVID-19**
+#CNN-Model---Chest-X-Ray-Image-Recognition-to-Detect-COVID-19
 
 **DESCRIPTION**
 
